@@ -13,7 +13,8 @@
     "react-scripts": "5.0.0",
     "react-three-fiber": "^6.0.13",
     "three": "^0.138.3",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "zustand": "^3.7.1"
   },
   "scripts": {
     "start": "react-scripts start",
